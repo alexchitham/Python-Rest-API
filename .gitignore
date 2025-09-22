@@ -1,0 +1,5 @@
+__pycache__/
+dummy_transactions.csv
+.venv/
+.pytest_cache/
+*.db
